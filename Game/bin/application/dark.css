@@ -1,0 +1,57 @@
+*{
+	-fx-font-family:'Candara'; 
+	-fx-text-fill:#FFDFFF;
+}
+.root{
+	-fx-padding:30px;
+	-fx-spacing:30px;
+	-fx-font-size:12px;
+	-fx-background-color:#220231;
+	-fx-text-fill:#FFDFFF;
+}
+
+.label{
+	-fx-text-fill:#FFDFFF;
+}
+.text{
+	-fx-text-fill:#FFDFFF;
+}
+#tutorial-button{
+	-fx-color:#302097;-fx-pref-width:240;
+}
+#hs-button{
+	-fx-color:#601477;-fx-pref-width: 240;
+}
+#settings-button{
+	-fx-color:#800C61;-fx-pref-width: 240;
+}
+#start-button{
+	-fx-color:#B00040;-fx-pref-width: 240;
+}
+#game-title{
+	-fx-font-size:40px;
+	-fx-padding:50px 0 0 0;
+}
+.title{
+	-fx-font-size:24px;
+}
+.button{
+	-fx-cursor:hand ;
+	-fx-pref-height:30;
+	-fx-pref-width:100;
+	-fx-font-family:'Candara';
+	-fx-background-radius:7;
+	-fx-color:#3B033E;
+}
+.rect{
+	-fx-fill:#dcb2dbff;
+	-fx-stroke: #3B033E;
+}
+
+.text{
+	-fx-wrap-text:true;
+}
+.new-high-score-label{
+	-fx-font-weight:bold;
+	-fx-font-size:20px;
+}
